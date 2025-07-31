@@ -1,5 +1,6 @@
 node_modules/
 cypress/videos/
 cypress/screenshots/
+cypress/fixtures/temp_testcases/
 cypress/downloads/"cypress.env.json" 
 cypress.env.json
